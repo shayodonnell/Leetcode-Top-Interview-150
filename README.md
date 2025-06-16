@@ -1,0 +1,1 @@
+This repository contains my daily solutions to problems from LeetCode’s Top Interview 150 list. I’m aiming to solve one problem each day to improve my coding skills and prepare for technical interviews. Solutions are organized by topic and written in Python.
